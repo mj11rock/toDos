@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.wrapper {
+  width: 60%;
+  margin: 100px auto;
+}
+
+.btn-floating {
+  position: absolute;
+  top: 0;
+  right: -20px;
+}
+.todos-list {
+  position: relative;
+}
