@@ -30,10 +30,7 @@ class App extends Component {
             deleteToDo={this.deleteToDo}
             className=""
           />
-          <button className="btn-floating btn-large waves-effect waves-light green">
-            {" "}
-            +{" "}
-          </button>
+          
         </div>
         <AddTodo AddTodo={this.addToDo} />
       </div>
